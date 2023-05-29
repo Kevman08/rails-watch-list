@@ -11,10 +11,11 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+@import "pages/show"
 
-@import "pages/lists";
+// @import "pages/lists";
 
-body{
-  font-family: 'Roboto', sans-serif;
-  background-color: #f4eee8;
-}
+// body {
+//   font-family: 'Roboto', sans-serif;
+//   background-color: #f4eee8;
+// }
